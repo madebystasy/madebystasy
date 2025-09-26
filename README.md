@@ -10,7 +10,7 @@ hello there! 🫶🏻<br><br>I'm stasy, an aspiring developer passionate about b
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
