@@ -1,5 +1,5 @@
-# 💫 About Me:
-hello there! 🫶🏻<br><br>I'm stasy, an aspiring developer passionate about building useful and creative projects.  <br>🚀 currently working on portfolio projects to apply for internships. <br><br>🌿 open to collaborations on different kinds of projects    <br>- 💻 interested in: web apps, mobile development, and creative tech projects.  <br>- 🎯 goal: become a full-stack developer and work on real-world applications.  <br>💬 ask me about my journey into tech, study tips, or learning resources.  <br><br>✨ i love combining tech with creativity <br>⚡ outside coding, I enjoy video editing, books, and exploring creative ideas. <br>
+# About Me:
+hello there! 🫶🏻<br><br>I'm stasy, an aspiring developer passionate about building useful and creative projects.  <br>🚀 currently working on portfolio projects to apply for internships. <br><br>🌿 open to collaborations on different kinds of projects    <br>- 💻 interested in: web apps, mobile development, and creative tech projects.  <br>- 🎯 goal: become a full-stack developer and work on real-world applications.  <br>💬 ask me about my journey into tech, study tips, or learning resources.  <br><br>i love combining tech with creativity <br>outside coding, I enjoy video editing, books, and exploring creative ideas. <br>
 
 
 ## 🌐 Socials:
